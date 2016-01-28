@@ -1,3 +1,8 @@
-# First Chapter
+# Sublime Text3 소개
 
-GitBook allows you to organize your book into chapters, each chapter is stored in a separate file like this one.
+설치버전이 아닌, 휴대용 버전을 설치해 USB등에 저장하고 환경 설정 후 다른 PC로 이동해서 사용 가능합니다.
+프로젝트 기능을 통해서 여러개의 폴더를 손쉽게 관리할 수 있습니다.
+GOTO 기능을 통해서 원하는 검색결과를 빠르게 사용할 수 있습니다.
+패키지 관리를 이용해서 손쉽게 확장 기능을 설치 제거 할 수 있다.
+
+[http://www.sublimetext.com/3]
