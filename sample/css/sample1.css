@@ -1,4 +1,22 @@
 .book-body {
+    font-size: 1px;
+    line-height: 1;
     position: absolute;
+    display: block;
+    box-sizing: border-box;
+    border: 1px solid #ccf;
+    width: 100px;
+    height: 100px;
+    margin-left: 0;
+    padding-left: 0;
+    background-color: #fff !important;
 }
-
+.sub > span {
+    font-size: 12px;
+    -webkit-border-radius: 3px;
+       -moz-border-radius: 3px;
+            border-radius: 3px;
+}
+#b {
+    text-align: left;
+}

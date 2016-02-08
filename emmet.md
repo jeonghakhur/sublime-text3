@@ -4,6 +4,8 @@ Emmet은 인기있는 텍스트 에디터들의 HTML 및 CSS 작업능률을 향
 
 ## Emmet 액션
 
+### 사용방법
+
 설명|단축키
 ---|---
 Ctrl + E | Expand Abbreviation - 축약어 확장
