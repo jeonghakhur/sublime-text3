@@ -8,4 +8,5 @@
 * [주요 단축키](chapter8.md)
 * [패키지 설치하기](chapter6.md)
 * [유용한 패키지](chapter9.md)
+    - [emmet](emmet.md)
 * [사용자설정](chapter10.md)
