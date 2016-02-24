@@ -94,10 +94,28 @@ https://github.com/SublimeLinter/SublimeLinter-jscs
 
 node install -g jscs
 
+Settings - User
+
+"jscs": {
+    "args": [
+        "--config",
+        "C:\\Users\\Administrator\\Sublime Text Build 3103 x64\\Data\\Packages\\User\\.jscs"
+    ]
+}
+
 ### SublimeLinter-jshint
 https://github.com/SublimeLinter/SublimeLinter-jshint
 
 node install -g jshint
+
+Settings - User
+
+"jshint": {
+    "args": [
+        "--config",
+        "C:\\Users\\Administrator\\Sublime Text Build 3103 x64\\Data\\Packages\\User\\.jshintrc"
+    ]
+}
 
 [
     { "keys": ["ctrl+k", "l"], "command": "sublimelinter_lint" },
@@ -120,4 +138,19 @@ https://github.com/csscomb/sublime-csscomb
 docs : https://github.com/csscomb/csscomb.js/blob/master/doc/options.md
 
 단축키 Ctrl+Shift+C
+
+Settings - User
+
+"space-before-opening-brace": " "
+
+## Theme - Soda
+
+http://buymeasoda.github.io/soda-theme/
+
+Settings - User
+
+{
+    "theme": "Soda Dark 3.sublime-theme",
+    "soda_classic_tabs": true
+}
 
