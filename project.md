@@ -14,8 +14,11 @@
     "folders":
     [
         {
-            "path": "C:\\Users\\Administrator\\work\\my_git_books\\sublime-text3"
+            "path": "C:\\Users\\Administrator\\Documents\\work\\sublime-text3-example\\example-project1"
         }
     ]
 }
 ```
+
+
+* 사이드바 닫기 : Ctrl+K, Ctrl+B
