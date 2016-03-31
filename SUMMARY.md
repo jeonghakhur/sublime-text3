@@ -2,8 +2,8 @@
 
 * [Sublime Text3 소개](intro.md)
 * [프로젝트 생성](project.md)
-* [Goto Anything](goto-anything.md)
 * [다중 선택](selection.md)
+* [Goto Anything](goto-anything.md)
 * [레이아웃](layout.md)
 * [코드 추가](snippet.md)
 * [주요 단축키](shortcut-key.md)
