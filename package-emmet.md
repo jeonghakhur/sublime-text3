@@ -1,7 +1,4 @@
 # Emmet
-
-git: https://github.com/sergeche/emmet-sublime
-
 Emmet은 HTML, CSS의 자동완성 기능을 통해 작업 생산성을 향상시키는 텍스트 편집기 플러그인입니다. 서브라임 텍스트의 Snippets 기능과 같이 미리 정의되어있는 문법을 입력 후 탭 키를 실행하면 정의되어 있는 코드가 자동완성 되는 기능입니다.
 
 ## 설치
@@ -35,9 +32,9 @@ $ | ul>li.item$*5 | numbering
 
 문법 | 출력
 ---|---
-input | \<input type="text"\>
-inp | \<input type="text" name="\|" id="\|"\>
-input:search |  \<input type="search" name="\|" id="\|"\>
+input | &lt;input type="text"&gt;
+inp | &lt;input type="text" name="\|" id="\|"&gt;
+input:search |  &lt;input type="search" name="\|" id="\|"&gt;
 
 위 표는 input 태그에 관련해 예를 들은 것입니다. '|'(Vertical Bar)로 되어 있는 부분은 코드가 출력된 후 탭 키가 눌러졌을 때 커서가 이동하는 위치로 어트리뷰트 속성을 바로 수정할 수 있습니다. CSS 파일 역시 HTML과 같은 형식으로 Emmet을 사용할 수 있으며 Emmet에서 제공하는 문법은 Cheat Sheet(http://docs.emmet.io/cheat-sheet/)를 통해 확인할 수 있습니다.
 
@@ -116,7 +113,7 @@ __Rename Tag - Shift+Ctrl+'__
 ![서브라임 텍스트 - Emmet - Rename Tag](./img/st-emmet-Rename-Tag.gif)
 
 ### Emmet 기능 키 정리
-설명|단축키
+단축키|설명
 ---|---
 Ctrl-+ E | Expand Abbreviation - 축약어 확장
 Shift+Ctrl+G | Wrap With Abbreviation - 축약어로 감싸는 태그 생성
@@ -136,7 +133,7 @@ Shift+Ctrl+' | Rename Tag - 태그 이름 변경
 
 ![서브라임 텍스트 - Emmet - Rename Tag](./img/st-emmet-Increment-Decrement-Number.gif)
 
-설명|단축키
+단축키|설명
 ---|---
 Ctrl + ↑ | 1씩 증가
 Ctrl + ↓ | 1씩 감소
@@ -202,3 +199,7 @@ Emmet을 설치하면 "Goto > "Goto Simbol in Project"의 단축키 Ctrl+Shift+R
   "command": "soft_undo"
 }]
 ```
+
+### 참고자료
+GIT: https://github.com/sergeche/emmet-sublime
+Cheat Sheet: http://docs.emmet.io/cheat-sheet/

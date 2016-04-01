@@ -52,3 +52,5 @@ Shortcuts: ctrl+shift+t
 ## [Goto-CSS-Declaration]()
 
 ![](./img/Goto-CSS-Declaration.gif)
+
+## Alignment

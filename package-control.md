@@ -28,3 +28,7 @@ Disable Package | 설확치된 장기능 사용 불가
 Enable Package  | Disable 된 확장기능 사용
 
 ![패키지 콘트롤 설치](./img/st-package-control-command-palette.gif)
+
+### 참고자료
+* 인기있는 패키지: https://packagecontrol.io/browse/popular
+* 패키지 컨트롤 설치: https://packagecontrol.io/installation

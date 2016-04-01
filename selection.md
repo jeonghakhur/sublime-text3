@@ -23,13 +23,13 @@
 ![서브라임 텍스트 단어  선택 전체 해제](img/st-selection-esc.gif)
 
 ### 단어 편집 단축키
-설명|단축키
+단축키|설명
 ---|---
-커서가 위치한 단어를 선택하고, 동일한 단어를 순차적으로 연속해서 선택 |Ctrl+D
-선택된 단어를 선택해제 |Ctrl+K
-선택된 단어와 같은 단어를 문서에서 모두 선택 |Alt+F3
-선택된 단어를 역순으로 선택해제 | Ctrl+U
-단어 선택 모드를 해제 | ESC
+Ctrl+D | 커서가 위치한 단어를 선택하고, 동일한 단어를 순차적으로 연속해서 선택
+Ctrl+K | 선택된 단어를 선택해제
+Alt+F3 | 선택된 단어와 같은 단어를 문서에서 모두 선택
+Ctrl+U | 선택된 단어를 역순으로 선택해제
+ESC | 단어 선택 모드를 해제
 
 
 ## 줄 선택
@@ -51,14 +51,14 @@
 ![서브라임 텍스트 - 줄 편집 방법 - Ctrl+Shift+J 이용](img/st-selection-line-3.gif)
 
 ### 줄 편집 단축키
-
-설명|단축키
+단축키|설명
 ---|---
-행 선택  | Ctrl+L
-행이 선퇙된 상태에서 각각 한 줄씩 편집 가능 | Ctrl+Shift+L
-행의 특정 위치를 편집 | Ctrl+Alt+(up, down)
-Bracket 범위 안의 내용 선택 | Ctrl+Shift+M
-같은 레벨안의 들여쓰기가 동일한 내용 선택 | Ctrl+Shift+J
+Ctrl+L | 행 선택
+Ctrl+Shift+L | 선택 영역을 다중 편집 가능한 상태로 전환
+Ctrl+Alt+(up, down) | 다중 편집 가능한 상태로 행 선택
+Ctrl+Shift+M | Brace 범위 안의 내용 선택
+Ctrl+Shift+J | 들여쓰기가 동일한 내용 선택
+Ctrl+Shift+A | 선택된 범위의 부모요소 선택
 
 ## 마우스로 선택
 단어 선택과 줄 선택은 코드의 일부분이 동일한 패턴을 가지고 있어야 가능합니다. 어떤 경우는 불규칙 적으로 코드의 일 부분을 선택해서 편집해야 되는 상황이 있습니다. 이 경우는 마우스와 키보드 조작으로 불규칙 적인 문서의 특정 부분을 다중 선택할 수 있습니다.
@@ -101,18 +101,21 @@ Scope 안의 내용을 한 번에 선택을 하려면 Ctrl+Shif+J 키를, 선택
 
 ![서브라임 텍스트 - 줄 이동](img/st-edit-move.gif)
 
-### 주요 편집 단축키
-설명|단축키
+#### 줄 편집 단축키
+단축키|설명
 ---|---
-줄 복사 | Ctrl+Shift+D
-줄 삭제 | Ctrl+Shift+K
-커서부터 줄 끝까지 삭제 | Ctrl+K, Ctrl+K
-커서부터 줄 처음까지 삭제 | Ctrl+Shift+Backspace
-들여쓰기 | Ctrl+](Right Bracket)
-내여쓰기 | Ctrl+[(Left Bracket)
-이전 줄 추가 | Ctrl+Shift+Ener
-다음 줄 추가 | Ctrl +Enter
-줄 이동 | Ctrl+Shift+Up, Down
+Ctrl+Shift+D | 줄 복사
+Ctrl+Shift+K | 줄 삭제
+Ctrl+KK | 커서부터 줄 끝까지 삭제
+Ctrl+K+Backspace | 커서부터 줄 처음까지 삭제
+Ctrl+X | 줄 잘라내기
+Ctrl+Shift+Up | 줄 위로 이동
+Ctrl+Shift+Down | 줄 아래로 이동
+Ctrl+Enter | 다음 행에 줄 삽입
+Ctrl+Shift+Enter | 이전 행에 줄 삽입
+Ctrl+J | 다음 줄을 현재 라인으로 합침
+Ctrl+] | 들여쓰기
+Ctrl+[ | 내어쓰기
 
 
 ### 단어 분리 - 사용자 설정

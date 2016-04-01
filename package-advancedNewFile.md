@@ -22,3 +22,5 @@ Rename file | 파일 이름변경
 Copy Current File | 현재 파일 복사
 Delete Current File | 현재 파일 삭제
 
+### 참고자료
+* GIT: https://github.com/skuroda/Sublime-AdvancedNewFile

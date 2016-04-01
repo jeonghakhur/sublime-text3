@@ -31,6 +31,8 @@ SideBarEnhancements | 사이드 바에서 작업 및 폴더의 향상된 기능 
 SublimeLinter | 코드 문법 검사를 위한 프레임워크
 Autoprefixer |  css vendor prefix 자동입력
 
+### 참고자료
+* IMESupport: https://github.com/chikatoike/IMESupport
 
 
 

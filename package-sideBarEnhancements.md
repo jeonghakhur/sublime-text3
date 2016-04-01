@@ -1,7 +1,5 @@
 # SideBarEnhancements
 
-Git: https://github.com/titoBouzout/SideBarEnhancements
-
 서브라임 텍스트 사이드 바의 마우스 오른쪽 메뉴는 간단한 몇 가지 기능만 제공을 합니다. 폴더에서 마우스 오른쪽 버튼을 클릭하여 메뉴를 열면, 신규 파일 생성, 폴더 이름 변경, 신규 폴더 생성, 폴더 삭제, 폴더에서 찾기에 대한 기능 제공하고, 파일에서 오른쪽 마우스 버튼을 클릭하면 파일 이름 변경, 파일 삭제, 현재 파일 위치를 탐색기에서 열기 기능을 제공합니다.
 
 ![서브라임 텍스트 - SideBarEnhancements 설치 전](./img/st-package-sideBarEnhancements-1.gif)
@@ -44,3 +42,5 @@ SideBarEnhancements 플러그인의 유용한 기능 중 Open With에 포토샵 
 ```
 
 
+### 참고자료
+* GIT: https://github.com/titoBouzout/SideBarEnhancements

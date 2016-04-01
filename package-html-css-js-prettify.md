@@ -1,8 +1,4 @@
 # HTML-CSS-JS Prettify
-
-GIT: https://github.com/victorporof/Sublime-HTMLPrettify
-
-
 코딩할 때 문서의 가독성을 높이기 위해 시간을 투자하는 것은 중요한 일입니다. 하나의 문서에 적게는 몇 십 줄의 코드가 들어가지만, 많게는 수 천 줄의 코드가 들어갈 수도 있기 때문입니다. 코딩 규칙 없이 상황에 따라 다른 규칙으로 코딩하게 되면, 다른 작업자의 코딩 스타일과의 문제가 발생할 수 있습니다.
 
 프로젝트를 완료한 후, 수정이나 유지보수를 위해 문서를 확인해야 하는 상황이 발생하게 되면 수정할 부분을 찾는 것 자체가 큰 일이 될 수도 있습니다. 그렇게 멀리 생각하지 않고, 한 100줄 정도되는 코드를 작성하고 일 주일 후 그 문서를 열어 다시 확인한다 생각해 보세요. 코딩 규칙이나 주석이 규칙에 맞추어 작성되어 있지 않다면 이해하기 힘들 것입니다.
@@ -22,3 +18,7 @@ HTML-CSS-JS Prettify 기능이 작동하려면 Node.js가 설치되어 있어야
 
 
 모든 프로젝트, 모든 작업자가 동일한 코딩 규칙을 가지고 있는 것은 아니기 때문에, 플러그인이 기본적으로 제공하는 값을 수정해 사용할 수 있어야 합니다. 열려진 문서에서 오른쪽 마우스 버튼을 클릭해 " HTML/CSS/JS Prettify > Set Prettify Preferences" 항목을 선택하면 ".jsbeautifyrc"파일이 열리며 HTML, CSS, JS 파일의 설정값을 변경할 수 있습니다.
+
+### 참고자료
+GIT: https://github.com/victorporof/Sublime-HTMLPrettify
+Node.js: https://nodejs.org/en/#download
