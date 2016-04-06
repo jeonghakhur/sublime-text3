@@ -1,0 +1,27 @@
+{
+  "name": "sublime-text3",
+  "version": "1.0.0",
+  "description": "sublime text3 guide",
+  "main": "README.md",
+  "dependencies": {
+    "gitbook-plugin-ga": "^1.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeonghakhur/sublime-text3.git"
+  },
+  "keywords": [
+    "sublime",
+    "text3"
+  ],
+  "author": "jeonghak.hur@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeonghakhur/sublime-text3/issues"
+  },
+  "homepage": "https://github.com/jeonghakhur/sublime-text3#readme"
+}
